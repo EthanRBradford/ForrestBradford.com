@@ -2,5 +2,7 @@
   link: /
 - name: About
   link: /about.html
+- name: Donate
+  link: /donate.html
 - name: Contact
   link: /contact.html
