@@ -10,6 +10,22 @@ If you can find time, we are looking for volunteers who can help us for a few ho
 
 Are you a web designer?  You can tell that this website could use some help!
 
+Including a yard sign, esp. if you're on a busy street would be a big help, or display a bumper sticker on your car (they're easily removed).
+
 Please <a href="mailto:{{ site.email }}">email us</a> if you can help out.
 We wish to have fun and our volunteers to have fun.
 
+<div class="row">
+  <div class="column">
+    <figure>
+      <img src="assets/images/YardSign1-thumbnail.jpg" alt="Forrest Yard Sign">
+      <figcaption>Yard Sign</figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+      <img src="assets/images/BumperStickerBoth-thumbnail.jpg" alt="Forrest Bumper Stickers">
+      <figcaption>Bumper Stickers (pick one of them).</figcaption>
+    </figure>
+  </div>
+</div>
