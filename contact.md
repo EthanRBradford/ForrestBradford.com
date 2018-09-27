@@ -1,10 +1,10 @@
 ---
 title: Contact Us
 layout: default
-email: ElectForrestBradford@gmail.com
+facebook: FB.ME/WinForrestWin
 ---
-Email: <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-Facebook: <a href="https://www.facebook.com/pg/WinForrestWin/">FB.ME/WinForrestWin</a>
+Facebook: <a href="http://{{ page.facebook }}">{{ page.facebook }}</a>
 
 Phone: 413-324-8891
