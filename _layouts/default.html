@@ -6,8 +6,15 @@
     <link rel="stylesheet" href="/assets/css/style.css">
 
     <title>{{ page.title }}</title>
+    <style>
+    nav {
+        display: block;
+        text-align: center;
+        background-color: yellow;
+    }
+    </style>
 </head>
-<body>
+<body {{ page.attributes }}>
     <header class="page-header" role="banner">
     <h1 class="project-name">{{ page.title }}</h1>
     <h2 class="project-tagline">{{ page.subtitle }}</h2>
