@@ -1,10 +1,10 @@
 - name: Home
   link: /
-- name: Donate
-  link: /donate.html
-- name: Helping
-  link: /help.html
 - name: Bio
   link: /about.html
+- name: Helping
+  link: /help.html
+- name: Donate
+  link: /donate.html
 - name: Contact
   link: /contact.html
