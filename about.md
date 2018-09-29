@@ -3,6 +3,7 @@ title: About Forrest
 subtitle: Forrest's background
 layout: default
 ---
+<img src="assets/images/HeadShot.jpg" alt="Forrest Bradford" align="right">
 Forrest Wesley Bradford was born in Manchester, New Hampshire on April 22, 1961 to Ann Mary (Hoffman) and Wesley Everett Bradford. He was the third child of four siblings.
 
 His father, Wesley, was born to a farming family of little means. He was a Battle of the Bulge veteran in WWII.  His mother, Ann Mary was from the Rhode Island families of Watson’s and Gardner’s, dating back to Roger Williams’s time.  Ann Mary was brought up in Narragansett on a large generational Watson family farm with over three hundred years of New England history.  Forrest was raised with a strong love of New England patriotism and loyalty to his country.
