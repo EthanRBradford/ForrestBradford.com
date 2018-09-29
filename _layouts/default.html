@@ -7,12 +7,6 @@
 
     <title>{{ page.title }}</title>
     <style>
-    nav {
-        width: 100%;
-        display: block;
-        text-align: center;
-        padding: 10px;
-    }
     </style>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -20,8 +14,8 @@
     <header class="page-header" role="banner">
     <h1 class="project-name">{{ page.title }}</h1>
     <h2 class="project-tagline">{{ page.subtitle }}</h2>
-    </header>
     {% include navigation.html %}
+    </header>
 
     {{ content }}
 </body>
