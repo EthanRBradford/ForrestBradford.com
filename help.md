@@ -22,8 +22,14 @@ We wish to have fun and our volunteers to have fun.
   </div>
   <div class="column">
     <figure>
-      <img src="assets/images/BumperStickerBoth-thumbnail.jpg" alt="Forrest Bumper Stickers">
-      <figcaption>Bumper Stickers (pick one of them).</figcaption>
+      <img src="assets/images/Bumper Sticker Yellow-thumbnail.jpg" alt="Forrest Bumper Stickers">
+      <figcaption>Yellow Bumper Sticker</figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+      <img src="assets/images/Bumper Sticker Black-thumbnail.jpg" alt="Forrest Bumper Stickers">
+      <figcaption>Black Bumper Sticker</figcaption>
     </figure>
   </div>
 </div>
