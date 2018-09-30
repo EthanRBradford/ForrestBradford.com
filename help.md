@@ -8,8 +8,6 @@ Our campaign welcomes a wide variety of volunteers. If time does not allow, you 
 
 If you can find time, we are looking for volunteers who can help us for a few hours helping people walk to our rallies, holding signs that help people park, making telephone calls, and much more.
 
-Are you a web designer?  You can tell that this website could use some help!
-
 Including a yard sign, esp. if you're on a busy street would be a big help, or display a bumper sticker on your car (they're easily removed).
 
 Please <a href="mailto:{{ site.email }}">email us</a> if you can help out.
