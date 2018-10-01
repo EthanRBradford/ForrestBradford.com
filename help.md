@@ -1,7 +1,8 @@
 ---
-title: Pitching in
+#x title: Pitching in
 #x subtitle: Ways you can help Forrest's campaign
 facebook: FB.ME/WinForrestWin
+background-image: url("/assets/images/Volunteers Needed.jpg")
 ---
 Our campaign welcomes a wide variety of volunteers.
 
