@@ -1,8 +1,9 @@
 ---
-# .page-header { background-image: url("/assets/images/Welcome.jpg"); }
 ---
 
 @import "{{ site.theme }}";
 
 html { font-family: "Book Antiqua", serif; }
 body { font-family: "Book Antiqua", serif; }
+
+.project-tagline { font-weight: bold; opacity: 1.0; font-size: 120%; }
