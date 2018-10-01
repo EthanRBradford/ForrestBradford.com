@@ -13,6 +13,6 @@ If you can find time, we are looking for volunteers who can help us for a few ho
 
 Including a yard sign, esp. if you're on a busy street would be a big help, or display a bumper sticker on your car (they're easily removed).
 
-Please <a href="mailto:{{ site.email }}">email us</a> or phone us (413-324-8891) if you can help out.
+Please <a href="mailto:{{ site.email }}">email us</a> or call us at 413-324-8891 if you can help out.
 
 We wish to have fun and for our volunteers to have fun.
