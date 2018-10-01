@@ -1,7 +1,6 @@
 ---
 title: Donations
 subtitle: Can you help fund this grass-roots campaign?
-layout: default
 ---
 Forrest has an all-volunteer campaign, so any donation goes a long way.
 

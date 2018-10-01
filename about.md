@@ -1,7 +1,5 @@
 ---
 title: About Forrest
-subtitle: Forrest's background
-layout: default
 ---
 <img src="assets/images/HeadShot.jpg" alt="Forrest Bradford" align="right">
 Forrest Wesley Bradford was born in Manchester, New Hampshire on April 22, 1961 to Ann Mary (Hoffman) and Wesley Everett Bradford. He was the third child of four siblings.

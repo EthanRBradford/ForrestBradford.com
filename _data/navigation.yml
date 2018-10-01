@@ -4,9 +4,13 @@
   link: /about.html
 - name: Hear Forrest
   link: /podcasts.html
-- name: Helping
+- name: Volunteer
   link: /help.html
 - name: Donate
   link: /donate.html
+- name: Yard Sign
+  link: /yardsign.html
+- name: Bumper Sticker
+  link: /bumpersticker.html
 - name: Contact
   link: /contact.html

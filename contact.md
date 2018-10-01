@@ -1,6 +1,5 @@
 ---
 title: Contact Us
-layout: default
 facebook: FB.ME/WinForrestWin
 ---
 The Committee To Elect Forrest Bradford, P.O. Box 500, Agawam, MA 01001.
