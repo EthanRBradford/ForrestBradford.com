@@ -1,9 +1,14 @@
 ---
-title: Events
-subtitle: We Invite You to Meet Forrest Bradford at a Rally on Sunday, October 7th, at 5:00 pm  
-#x background-image: url("/assets/images/YardSign1-thumbnail.jpg")
+#x title: Events
+background-image: url("/assets/images/chili.jpg")
+layout: default
 ---
-<b>Rain date:</b> Sunday October 14th  
+<div class="center">
+<h1>Rally for Forrest Bradford<br>Sunday, October 7th, at 5:00 pm</h1>
+
+<em>(Rain date: Sunday October 14th)</em>
+</div>
+
 <b>Where:</b> Oxford Street in Agawam
 
 <b>Type of Rally:</b> This is a no smoking bring your own chair rally. There is a bit of a walk to get there, but we will have guides to help you. There are no bathroom facilities.
