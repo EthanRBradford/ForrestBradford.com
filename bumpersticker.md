@@ -1,5 +1,6 @@
 ---
 title: Bumper Stickers
+background-image: url("/assets/images/Bumper Sticker 12.png")
 ---
 <div class="center">
 <img src="assets/images/Bumper Sticker Yellow-thumbnail.jpg" alt="Forrest Bumper Sticker, Yellow">
