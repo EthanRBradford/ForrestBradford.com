@@ -1,6 +1,6 @@
 ---
 #x title: Events
-background-image: url("/assets/images/chili.jpg")
+background-image: url("/assets/images/Chili.jpg")
 layout: default
 ---
 <div class="center">
