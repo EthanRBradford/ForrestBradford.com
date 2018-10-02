@@ -1,7 +1,7 @@
 ---
-title: Platform
+title:    
 #x subtitle: 
-#x background-image: url("/assets/images/Autumn.jpg")
+background-image: url("/assets/images/cover platform.jpg")
 ---
 <b>Environment:</b>  We must act now on making changes to stave off the negative effects Global Warming will have on our children and future generations.
 
