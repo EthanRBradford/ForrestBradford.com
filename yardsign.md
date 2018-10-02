@@ -1,6 +1,6 @@
 ---
-title: Yard Signs
-#x background-image: url("/assets/images/YardSign1-thumbnail.jpg")
+#x title: Yard Signs
+background-image: url("/assets/images/row-of-houses.png")
 ---
 <img src="assets/images/YardSign1-thumbnail.jpg" alt="Forrest Yard Sign" align="left" width="240" height="150">
 <img src="assets/images/forrest signs 2 - thumbnail.jpg" alt="Forrest Yard Sign" align="right" width="240" height="150">
