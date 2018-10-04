@@ -10,4 +10,4 @@ Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 Facebook: <a href="http://{{ page.facebook }}">{{ page.facebook }}</a>
 
-Phone: 413-324-8891
+Phone: <a href="tel:413-324-8891">413-324-8891</a>

@@ -10,6 +10,6 @@ background-image: url("/assets/images/row-of-houses.png")
 Kindly allow us to place a yard sign on your property.<br>
 We have designed two.<br>
 Choose which one you like!<br>
-413-324-8891<br>
+<a href="tel:413-324-8891">413-324-8891</a><br>
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 </div>
