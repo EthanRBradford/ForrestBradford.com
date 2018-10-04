@@ -1,5 +1,6 @@
 ---
 #x title: Yard Signs
+title: Yard Signs (Forrest Bradford)
 background-image: url("/assets/images/row-of-houses.png")
 ---
 <img src="assets/images/YardSign1-thumbnail.jpg" alt="Forrest Yard Sign" align="left" width="240" height="150">

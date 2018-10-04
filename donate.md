@@ -1,5 +1,6 @@
 ---
 #x title: Donations
+title: Donating to Forrest Bradford
 #x subtitle: Can you help fund this grass-roots campaign?
 background-image: url("/assets/images/donations 2.jpg")
 ---

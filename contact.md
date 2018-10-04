@@ -1,5 +1,6 @@
 ---
 #x title: Contact Us
+title: Contact info for Forrest Bradford
 facebook: FB.ME/WinForrestWin
 background-image: url("/assets/images/Contact 2.jpg")
 ---

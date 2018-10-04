@@ -1,5 +1,5 @@
 ---
-title:    
+title: Forrest Bradford's Platform
 #x subtitle: 
 background-image: url("/assets/images/cover platform.jpg")
 ---

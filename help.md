@@ -1,5 +1,5 @@
 ---
-#x title: Pitching in
+title: Volunteering for Forrest Bradford
 #x subtitle: Ways you can help Forrest's campaign
 facebook: FB.ME/WinForrestWin
 background-image: url("/assets/images/Volunteers Needed.jpg")

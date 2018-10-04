@@ -1,5 +1,6 @@
 ---
 #x title: Events
+title: Forrest Bradford Events
 background-image: url("/assets/images/Chili.jpg")
 layout: default
 ---

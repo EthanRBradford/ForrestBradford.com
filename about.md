@@ -1,5 +1,6 @@
 ---
 #x title: About Forrest
+title: Forrest Bradford Biography
 background-image: url("/assets/images/Biography 4 2.jpg")
 ---
 <img src="assets/images/HeadShot.jpg" alt="Forrest Bradford" align="right">
