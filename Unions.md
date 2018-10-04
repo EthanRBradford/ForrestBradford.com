@@ -17,3 +17,5 @@ Public-union workers in Agawam, Granville, and Southwick should take note and el
 I will join the fight … meeting with other representatives … who are currently working on brainstorming ideas to minimize the effects of JANUS.
 
 Forrest is a proud member of United Food and Commercial Workers, Local 1459.
+
+<a href="/platform.html">Back</a>
