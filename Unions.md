@@ -1,9 +1,9 @@
 ---
 title: Forrest on Unions
-headline: Unions Under Threat
+#x headline: Unions Under Threat
 #x subtitle: Some podcasts featuring Forrest
 layout: default
-#x background-image: url("/assets/images/Listening 5.jpg")
+background-image: url("/assets/images/Unions.jpg")
 ---
 The middle class in the United States during the 50’s and 60’s was the envy of the world.  This was, in large part, due to the successful rise of unions which demanded fair wages, vacation, sick pay, etc.
 
