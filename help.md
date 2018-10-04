@@ -12,8 +12,6 @@ To show support to your neighbors, you can <a href="yardsign.html">display a yar
 
 If you can find time, we are looking for volunteers who can help us for a few hours helping people walk to our rallies, holding signs that help people park, making telephone calls, and much more.
 
-Including a yard sign, esp. if you're on a busy street would be a big help, or display a bumper sticker on your car (they're easily removed).
-
-Please <a href="mailto:{{ site.email }}">email us</a> or call us at 413-324-8891 if you can help out.
+Please <a href="mailto:{{ site.email }}">email us</a> or call us at <a href="tel:413-324-8891">413-324-8891</a> if you can help out.
 
 We wish to have fun and for our volunteers to have fun.
