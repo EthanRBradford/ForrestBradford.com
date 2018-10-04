@@ -2,7 +2,7 @@
   link: /
 - name: Bio
   link: /about.html
-- name: Hear Forrest
+- name: Hear&nbsp;Forrest
   link: /podcasts.html
 - name: Platform
   link: /platform.html
@@ -12,9 +12,9 @@
   link: /help.html
 - name: Donate
   link: /donate.html
-- name: Yard Sign
+- name: Yard&nbsp;Sign
   link: /yardsign.html
-- name: Bumper Sticker
+- name: Bumper&nbsp;Sticker
   link: /bumpersticker.html
 - name: Contact
   link: /contact.html
