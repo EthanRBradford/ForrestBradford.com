@@ -3,9 +3,9 @@ title: Forrest Bradford's Platform
 #x subtitle: 
 background-image: url("/assets/images/cover platform.jpg")
 ---
-<b>Environment:</b>  We must act now on making changes to stave off the negative effects Global Warming will have on our children and future generations.
+<b>Environment:</b>  We must act now to stave off the negative effects Global Warming will have on our children and future generations.
 
-<b>Unions:</b>  We must protect unions and do what we can to build public trust in unions.  Unite with those in Boston doing what they can to diminish the latest JANUS decision aimed at destroying unions.
+<b>Unions:</b>  We must protect unions and do what we can to re-build public confidence and trust in them. They are crucial to a free democracy. <a href="/Unions.html">Read More</a>
 
 <b>Freedom of the Press:</b>   Designed after the formation of our country whose purpose is to develop a well-informed citizenry.  Having a well-informed Citizenry makes for a strong democracy.
 
