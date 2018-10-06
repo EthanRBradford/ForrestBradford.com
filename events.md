@@ -1,21 +1,13 @@
 ---
 #x title: Events
 title: Forrest Bradford Events
-background-image: url("/assets/images/Chili.jpg")
+background-image: url("/assets/images/bees on daisies.jpg")
 layout: default
 ---
-<div class="center">
-<h1>Rally for Forrest Bradford<br>Sunday, October 7th, at 5:00 pm</h1>
+Here are some opportunities for you to meet Forrest in person:
+* <a href="GranvilleFair.html">Granville Harvest Fair</a>, October 6-8, 8:00 am - 3:30 pm
+* Shane’s Foundation Golf Tournament, October 6, 5:00 pm, Oak Ridge Golf Club
+* <a href="rally2.html">Rally, with Chili!</a> Sunday, October 7th, at 5:00 pm; Oxford St., Agawam
+* Southwick Democrats, October 11, 7:00 pm, Southwick Town Hall
+* Pioneer Valley Labor Council, October 17, 6:00 pm
 
-<em>(Rain date: Sunday October 14th)</em>
-</div>
-
-<b>Where:</b> Oxford Street in Agawam
-
-<b>Type of Rally:</b> This is a no smoking bring your own chair rally. There is a bit of a walk to get there, but we will have guides to help you. There are no bathroom facilities.
-Our aim is to keep this short. Forrest will speak for a short time. Then there will be about a half hour of mingle and greet time. The Rally event will be over in an hour. You may remain and mingle if you wish.
-
-<b>If someone has difficulty walking:</b> Please contact us at 413-324-8891;
-special arrangements for parking will be provided for you.
-
-<b>Refreshments:</b> Cider, chili, and cornbread will be served, but we may run out as we do not know how many will be attending.
