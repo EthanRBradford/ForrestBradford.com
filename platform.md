@@ -14,4 +14,10 @@ background-image: url("/assets/images/cover platform.jpg")
 
 <b>Spam Phone Calls:</b>  Telephone companies can reduce these calls greatly, yet are currently asking for monthly fees to do so.  Investigation into this is necessary as these calls interrupt all our lives while we are trying to go about our daily chores.  If telephone companies can block these calls, they then should, at no additional cost to their customers.
 
-<b>Corporate Takeover:</b>  The middle class is being taken for a ride by banking fees, insurance prices, pharmaceutical price gouging, hospital costs, etc.  It is time we turn the tables of fairness to the middle class and elect people who care enough to fight for change.
+<b>Corporate Takeover:</b>  The middle class is being taken for a ride by banking fees, insurance prices, pharmaceutical price gouging, hospital costs, etc.  It is time we turn the tables of fairness to the middle class and elect people who care enough to fight for change. <a href="/corporations.html"><small>Read More</small></a>
+
+<b>LGBT Rights:</b> LGBT people are not a separate community; they are part of the families of Agawam, Granville, and Southwick. No person should trump another in rights because they are in the majority.  In the United States, we strive for equality for all.  <a href="/lgbt.html"><small>Read More</small></a>
+
+<b>Mental Illness:</b> A large number of families in Agawam, Southwick, and Granville have dealt with or are currently dealing with those suffering forms of mental illness.  We can come up with better supportive ideas for these families.  I have had mental illness affect a brother and other members of my family.  My parents spent years volunteering for NAMI.   I will be an advocate for those families affected as mine was.
+
+<b>Military Veterans and Wounded Vet Concerns:</b> Forrest navigated the VA system for many years while caring for his father, who was wounded in the Battle of the Bulge.  Forrest is against privatizing the VA system.
