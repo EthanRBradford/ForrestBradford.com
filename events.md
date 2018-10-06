@@ -9,5 +9,4 @@ Here are some opportunities for you to meet Forrest in person:
 * Shane’s Foundation Golf Tournament, October 6, 5:00 pm, Oak Ridge Golf Club
 * <a href="rally2.html">Rally, with Chili!</a> Sunday, October 7th, at 5:00 pm; Oxford St., Agawam
 * Southwick Democrats, October 11, 7:00 pm, Southwick Town Hall
-* Pioneer Valley Labor Council, October 17, 6:00 pm
 
