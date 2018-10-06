@@ -12,7 +12,7 @@ background-image: url("/assets/images/cover platform.jpg")
 
 <b>Opioid Epidemic:</b>  Families need answers and support when their loved ones suffer from addiction and have entered into the system.  They should at least know that their loved ones are safe.  Oversight is also needed on those who develop these programs who receive grant monies to ensure they are not misappropriating funds.  These persons should also be contactable.
 
-<b>Spam Phone Calls:</b>  Telephone companies can reduce these calls greatly, yet are currently asking for monthly fees to do so.  Investigation into this is necessary as these calls interrupt all our lives while we are trying to go about our daily chores.  If telephone companies can block these calls, they then should, at no additional cost to their customers.
+<b>Spam Phone Calls:</b>  These calls negatively affect our peaceful lives on a daily basis.  Telephone companies currently have the ability to block these calls, but demand a monthly fee to do so.  If telephone companies can stop this nonsense, they then should, at no additional cost.
 
 <b>Corporate Takeover:</b>  The middle class is being taken for a ride by banking fees, insurance prices, pharmaceutical price gouging, hospital costs, etc.  It is time we turn the tables of fairness to the middle class and elect people who care enough to fight for change. <a href="/corporations.html"><small>Read More</small></a>
 
