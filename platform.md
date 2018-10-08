@@ -6,6 +6,9 @@ background-image: url("/assets/images/cover platform.jpg")
 <b>Environment:</b>  We must act now to stave off the negative effects Global Warming will have on our children and future generations.
  <a href="/environment.html"><small>Read More</small></a>
 
+<b>Education:</b> Forrest supports having strong public education as the bulwark of a free and wealthy society.  He opposes draining resources from public schools into charter schools.  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>“An investment in Knowledge pays the best interest.” - Benjamin Franklin</em>
+
 <b>Unions:</b>  We must protect unions and do what we can to re-build public confidence and trust in them. They are crucial to a strong and equitable democracy. <a href="/Unions.html"><small>Read More</small></a>
 
 <b>Freedom of the Press:</b>   Feeling Patriotic?  As one of our basic rights in these United States, Freedom of the Press was designed with the main purpose of informing the citizenry of truths.  With these truths, the public is afforded critical tools to use in many ways, which enhances their ability in helping to build a stronger republic.  It is critical for a strong democracy to have a well-informed public.   If this freedom is used with ill-intent to misinform the public… usually this occurs when protection of self-interest and profit is involved… it is a breach of the public trust and is the opposite of patriotic. <a href="/pressfreedom.html"><small>Read More</small></a>
@@ -21,6 +24,4 @@ background-image: url("/assets/images/cover platform.jpg")
 <b>Mental Illness:</b> A large number of families in Agawam, Southwick, and Granville have dealt with or are currently dealing with those suffering forms of mental illness.  We can come up with better supportive ideas for these families.  I have had mental illness affect a brother and other members of my family.  My parents spent years volunteering for NAMI.   I will be an advocate for those families affected as mine was.
 
 <b>Military Veterans and Wounded Vet Concerns:</b> Forrest navigated the VA system for many years while caring for his father, who was wounded in the Battle of the Bulge.  Forrest is against privatizing the VA system.
-
-<b>Education:</b> Forrest supports having strong public education as the bulwark of a free and wealthy society.  He opposes draining resources from public schools into charter schools.
 
