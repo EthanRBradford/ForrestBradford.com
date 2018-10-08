@@ -21,3 +21,6 @@ background-image: url("/assets/images/cover platform.jpg")
 <b>Mental Illness:</b> A large number of families in Agawam, Southwick, and Granville have dealt with or are currently dealing with those suffering forms of mental illness.  We can come up with better supportive ideas for these families.  I have had mental illness affect a brother and other members of my family.  My parents spent years volunteering for NAMI.   I will be an advocate for those families affected as mine was.
 
 <b>Military Veterans and Wounded Vet Concerns:</b> Forrest navigated the VA system for many years while caring for his father, who was wounded in the Battle of the Bulge.  Forrest is against privatizing the VA system.
+
+<b>Education:</b> Forrest supports having strong public education as the bulwark of a free and wealthy society.  He opposes draining resources from public schools into charter schools.
+
