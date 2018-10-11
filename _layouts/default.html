@@ -3,13 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="generator" content="Jekyll v3.7.3.1" />
+    <meta name="description" content="Forrest Bradford is running to represent Agawam, Granville, and Southwick for Massachusetts's 3rd Hampden District">
     <link rel="stylesheet" href="/assets/css/style.css">
+    <meta name="keywords" content="campaign, Agawam, Granville, Southwick, Hampden, Forrest Bradford">
+    <meta name="og:title" property="og:title" content="Forrest Bradford for Agawam, Granville, and Southwick">
 
     <title>{{ page.title }}</title>
     <style>
       .page-header { background-image: {{ page.background-image }}; }
     </style>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127320856-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-127320856-1');
+    </script>
 </head>
 <body {{ page.attributes }}>
     <div class="center">{% include navigation.html %}</div>
