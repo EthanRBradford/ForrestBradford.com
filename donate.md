@@ -4,7 +4,11 @@ title: Donating to Forrest Bradford
 #x subtitle: Can you help fund this grass-roots campaign?
 background-image: url("/assets/images/donations 2.jpg")
 ---
+<div class="center">
+<font size="6pt">
 Forrest has an all-volunteer campaign, so any donation goes a long way.
+</font>
+</div>
 
 Donations can be mailed to by check to:  
 The Committee To Elect Forrest Bradford, P.O. Box 500, Agawam, MA 01001.
