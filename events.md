@@ -5,8 +5,6 @@ background-image: url("/assets/images/bees on daisies.jpg")
 layout: default
 #x Here are some opportunities for you to meet Forrest in person:
 ---
-See Forrest on WGBY, Oct 19, 7:00 p.m.
-
 Past events:
 * Southwick Democrats, October 11, 7:00 pm, Southwick Town Hall
 * <a href="GranvilleFair.html">Granville Harvest Fair</a>, October 6-8, 8:00 am - 3:30 pm
