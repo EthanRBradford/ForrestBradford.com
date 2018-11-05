@@ -1,7 +1,7 @@
 ---
 #x title: News
 title: Forrest Bradford News
-background-image: url("/assets/images/news.jpg")
+background-image: url("/assets/images/News.jpg")
 layout: default
 ---
 Follow Forrest in the news!
