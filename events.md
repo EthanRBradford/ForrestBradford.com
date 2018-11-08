@@ -5,9 +5,8 @@ background-image: url("/assets/images/bees on daisies.jpg")
 layout: default
 #x Here are some opportunities for you to meet Forrest in person:
 ---
-Election Day is Nov. 6!  Please call <a href="tel:413-324-8891">413-324-8891</a> if you can hold a sign for Forrest that day.
-
 Past events:
+* Election Day,  Nov. 6, 2018!
 * Southwick Democrats, October 11, 7:00 pm, Southwick Town Hall
 * <a href="GranvilleFair.html">Granville Harvest Fair</a>, October 6-8, 8:00 am - 3:30 pm
 * Shane’s Foundation Golf Tournament, October 6, 5:00 pm, Oak Ridge Golf Club
